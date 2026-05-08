@@ -14,9 +14,9 @@ $this->setTitle($applicationParams->name);
 ?>
 
 <div class="text-center">
-    <h1>Vitor Moraes Gomes dos santos</h1>
+    <h1>Vitor Moraes </h1>
 
-    <p>Sou muito inteligente <strong>Yii3</strong>!</p>
+    <p>Já bora<strong>Yii3</strong>!</p>
 
     <p>
         <a href="https://yiisoft.github.io/docs/" target="_blank" rel="noopener">
